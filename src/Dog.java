@@ -6,3 +6,4 @@ public class Dog {
     int age;
     String color;
 }
+
